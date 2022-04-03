@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
-header {height:100px;}
-.contents {height:500px}
-footer {height:100px;}
+header{height:55px; width:950px;background-color:#bebebe;padding : 10px 20px;}
+section{height: 1000px; width:1000px;}
+.box1{width:700px;margin:10px 0 0 150px;}
+.box2{width:600px; height:570px;background-color:#dcdcdc;margin:20px 0 0 150px;box-shadow: 0px 0px 20px #dcdcdc;}

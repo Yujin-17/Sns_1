@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class UserController {
 
+	
 	/**
 	 * 회원가입 화면
 	 * @param model
@@ -18,4 +19,11 @@ public class UserController {
 		model.addAttribute("viewName", "user/sign_up");
 		return "template/layout";
 	}
+	
+	
+	
+	
+	
 }
+
+
